@@ -1,0 +1,9 @@
+marathi = 40
+english = 50
+history = 60
+science = 80
+maths = 40
+total=marathi+english+history+science+maths 
+average=total/5
+print("total=",total)
+print("average=",average)
